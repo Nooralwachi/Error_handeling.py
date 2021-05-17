@@ -1,4 +1,4 @@
-# Error_handeling.py
+# Error_handling.py
 
 You given a simple task: write a function named division that takes a filename and prints the division result of each line
 
